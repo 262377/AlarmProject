@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431363559710",
+    "firebase_url": "https://deu-scrap.firebaseio.com",
+    "project_id": "deu-scrap",
+    "storage_bucket": "deu-scrap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431363559710:android:180b3f3e9c3618dd6c390f",
+        "android_client_info": {
+          "package_name": "com.example.deu_scrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431363559710-emopjikaldkueflpej7e30gla9bt6tic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE5hVoz4ECyO7qb3P7djOW-BTNK_xjnN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431363559710-emopjikaldkueflpej7e30gla9bt6tic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
